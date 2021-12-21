@@ -1,3 +1,15 @@
+ #-------------------------------------------------------------------------------
+# Name:        Blackjack game
+# Purpose:     Fun
+#
+# Author:      nicolescu
+#
+# Created:     20/12/2021
+# Copyright:   (c) nicol 2021
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+ 
+ 
  # Blackjack / 21 game
 import random
 from replit import clear
